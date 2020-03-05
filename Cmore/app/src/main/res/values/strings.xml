@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="color">color</string>
+    <string name="Designers">Designed by Andreani J., Evangelista S., Speranza M.</string>
+    <string name="Welcome">Welcome to Cern Visitors</string>
+    <string name="Imgdescription">Cern logo</string>
+</resources>
