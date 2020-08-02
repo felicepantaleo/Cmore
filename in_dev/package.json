@@ -1,0 +1,38 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "1.11.0",
+    "@tensorflow/tfjs-backend-cpu": "2.0.1",
+    "@tensorflow/tfjs-backend-webgl": "2.0.0",
+    "@tensorflow/tfjs-core": "2.0.1",
+    "@tensorflow/tfjs-react-native": "~0.3.0",
+    "core-js": "^3.6.5",
+    "expo": "^38.0.8",
+    "expo-2d-context": "0.0.2",
+    "expo-asset": "^7.0.0",
+    "expo-camera": "^7.0.0",
+    "expo-gl": "8.3.1",
+    "expo-permissions": "~9.0.1",
+    "expo-status-bar": "^1.0.0",
+    "iframe2image": "^0.2.1",
+    "react": "^16.12.0",
+    "react-dom": "~16.11.0",
+    "react-native": "0.61",
+    "react-native-canvas": "^0.1.37",
+    "react-native-fs": "2.16.6",
+    "react-native-web": "~0.11.7",
+    "react-native-webview": "9.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "babel-preset-expo": "~8.1.0"
+  },
+  "private": true
+}
